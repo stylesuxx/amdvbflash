@@ -25,7 +25,7 @@ sudo ./amdvbflash -s 0 <file>
 ```
 
 Now we can flash the new vBIOS to our card.
-The following commands will write the vBIOS image in file `<file>` to flash ROM in adapter `0`. Notice that the `-f` option is not support in external versions.
+The following commands will write the vBIOS image in file `<file>` to flash ROM in adapter `0`. Notice that the `-f` option is not supported in external versions.
 
 ```sh
 sudo ./amdvbflash -f -p 0 <file>
