@@ -1,3 +1,5 @@
+> **DISCLAIMER**: This is not my code, those are not my binaries, this is not my repo. The original author removed the repository. I had a clone and decided to re-upload it. The original auhor has been removed from the git history. Since I do not have the same contacts as OP - do not expect any updates to this repository. If the original source of the binaries wants to provide me with new versions, I will more than happily upload them.
+
 # amdvbflash
 
 AMD vBIOS flash utility for Linux.
